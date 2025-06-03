@@ -11,7 +11,7 @@ FibonacciRs benchmarks Fibonacci number generators implemented in Rust and Pytho
 ## Repository Structure
 
 ```
-.
+./src/
 ├── fib.py           # Python implementation
 └── fib.rs           # Rust implementation
 ```
